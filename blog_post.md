@@ -1,8 +1,8 @@
 # A Control Dataset for cross-file Dependency in code completion
 
 > **Links** (replace before submitting):
-> - Dataset: `https://github.com/Yuunjisan/FunMLDL_A2_Ocean_Wang/blob/main/control_dataset/control_dataset.jsonl`
-> - Generator code: `https://github.com/Yuunjisan/FunMLDL_A2_Ocean_Wang/blob/main/control_dataset/generate_control_dataset.py`
+> - Dataset: `https://github.com/Yuunjisan/Control_dataset_FUNMLDLA2/blob/main/control_dataset/control_dataset.jsonl`
+> - Generator code: `https://github.com/Yuunjisan/Control_dataset_FUNMLDLA2/blob/main/control_dataset/generate_control_dataset.py`
 
 ## the property: cross-file dependency
 
